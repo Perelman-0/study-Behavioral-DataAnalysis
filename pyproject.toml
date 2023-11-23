@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "study-behavioral-dataanalysis"
+version = "0.1.0"
+description = ""
+authors = ["karpathy9 <83355157+karpathy9@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
